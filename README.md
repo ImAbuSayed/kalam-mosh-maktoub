@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيناك نار تشعل كل أشواقي
+> سحرك يسري في كل أعماقي
+> تعالي نضيع في صمت هذا الليل
+> حبك يجري في دمي كالسيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
