@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Kalam Mosh Maktoub |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 03, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kalam-mosh-maktoub/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيناك نار تشعل كل أشواقي
+> سحرك يسري في كل أعماقي
+> تعالي نضيع في صمت هذا الليل
+> حبك يجري في دمي كالسيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
