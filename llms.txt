@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kalam-mosh-maktoub/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Kalam Mosh Maktoub](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Kalam Mosh Maktoub](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
