@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kalam Mosh Maktoub
+
+This log tracks the cryptographic history and versioning for the song **Kalam Mosh Maktoub** (kalam-mosh-maktoub).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:19:25.390946 | `v1` | `d53ca1f49422d323f51ce1ddf3f93cb6e2c14efaf29b28ca09a2246231740877` | `2d317c9d4b14e5196d27fe96155e0535fc422b1f768ab46e5f6c2c2822e00fc7` | `2026-05-08_kalam-mosh-maktoub-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
